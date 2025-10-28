@@ -8,11 +8,15 @@ body {
     color: whitesmoke;
     height: 100vh;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
 }
   
 .item {
     font-weight: bold;
     margin: 10px;
-    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    font-family: 
       "Helvetica Neue", sans-serif;
+  
 }

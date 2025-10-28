@@ -10,12 +10,19 @@ body {
     height: 60px;
     padding: 10px;
     background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+
+  
   }
   
   #navbar-two {
     height: 120px;
     padding: 10px;
     background-color: whitesmoke;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
   }
   
   .item {
